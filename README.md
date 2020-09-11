@@ -5,3 +5,6 @@ The goal of our project is to optimize travel routes for a delivery vehicle by u
 Download dataset(train.csv) from here: https://drive.google.com/file/d/1MjtT0NYJEePJ4zT96kUp4sgngxTf4t83/view?usp=sharing
 
 xgb_model.sav file created by Train_XGBoost.ipynb can be veiwed here: https://drive.google.com/file/d/1S68Hm_L-A8uJMSG9tgvwdMp5xSmJ4S0b/view?usp=sharing
+
+
+Please read Project_Report.pdf for detailed information about the project, tools required, how to run screenshots and observations.
