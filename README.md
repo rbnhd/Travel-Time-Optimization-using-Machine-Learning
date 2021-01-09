@@ -7,4 +7,4 @@ Download dataset(train.csv) from here: https://drive.google.com/file/d/1MjtT0NYJ
 xgb_model.sav file created by Train_XGBoost.ipynb can be veiwed here: https://drive.google.com/file/d/1S68Hm_L-A8uJMSG9tgvwdMp5xSmJ4S0b/view?usp=sharing
 
 
-Please read Project_Report.pdf for detailed information about the project, tools required, how to run screenshots and observations.
+Please read Project_Report.pdf for detailed information about the project, tools required, how to run, screenshots and observations.
